@@ -43,12 +43,12 @@ Atualmente, trabalho na **Gerência de Normas e Critérios de Produtividade (SEA
 ## 📌 Projetos em Destaque
 
 ### 🔹 **Promove**
-Sistema para simular evolução funcional, calcular pontuações de produtividade e prever possíveis evoluções e gerar análises mensais para servidores da administração pública.
+Sistema para **calcular evoluções funcionais**, calcular pontuações de produtividade e projetar possível evolução e gerar análises mensais para servidores públicos.
 **Tecnologias Principais:** Python, Streamlit, Pandas, Openpyxl
 🔗 https://github.com/A4thu4/Promove
 ---
 
-### 🔹 **Comparador GGDP**
+### 🔹 **Comparador**
 Ferramenta para comparar e destacar diferenças entre textos, pdfs e planilhas.
 **Tecnologias Principais:** Python, Streamlit, Pandas, Openpyxl 
 🔗 https://github.com/A4thu4/Comparador
@@ -71,6 +71,12 @@ Ferramenta para comparar e destacar diferenças entre textos, pdfs e planilhas.
 - Infraestrutura (redes e sistemas).
 
 ---
+
+## 📊 Estatísticas
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=A4thu4&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A4thu4&layout=compact&theme=dracula"/>
+</p>
 
 ## 📫 Contato
 <p>
