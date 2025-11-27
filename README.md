@@ -1,5 +1,5 @@
 <!-- HEADLINE -->
-<h1 align="center">👨‍💻 Arthur Mamedes</h1>
+<h1 align="center">👨‍💻 Arthur Mamedes Borges</h1>
 <h3 align="center">
 Dev em Formação • Automação • Infraestrutura • Dados  <br/>
 Estudante de Ciência da Computação • Estagiário na SEAD/GO 
