@@ -47,10 +47,8 @@ Sistema para **calcular evoluções funcionais**, calcular pontuações de produ
 
 🔗 https://github.com/A4thu4/Promove
 
----
-
 ### 🔹 **Comparador**
-Ferramenta para comparar e destacar diferenças entre textos, pdfs e planilhas.
+Ferramenta para comparar e destacar diferenças entre textos, pdfs e planilhas.<br/>
 **Tecnologias Principais:** Python, Streamlit, Pandas, Openpyxl 
 
 🔗 https://github.com/A4thu4/Comparador
