@@ -1,7 +1,7 @@
 <!-- HEADLINE -->
 <h1 align="center">👨‍💻 Arthur Mamedes</h1>
 <h3 align="center">
-Desenvolvedor Python • Automação & Dados
+Dev em Formação • Automação • Infraestrutura • Dados  <br/>
 Estudante de Ciência da Computação • Estagiário na SEAD/GO 
 </h3>
 
