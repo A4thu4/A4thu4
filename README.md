@@ -82,5 +82,7 @@ Ferramenta para comparar e destacar diferenças entre textos, pdfs e planilhas.<
 <p>
   <a href="mailto:arthurmamedesborges@gmail.com.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://A4thu4.github.io"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+</p>
 </p>
 
