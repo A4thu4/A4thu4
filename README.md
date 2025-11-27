@@ -72,11 +72,11 @@ Ferramenta para comparar e destacar diferenças entre textos, pdfs e planilhas.<
 
 ---
 
-## 📊 Estatísticas
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=A4thu4&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A4thu4&layout=compact&theme=dracula"/>
-</p>
+## 💡 Estatísticas (opcional)
+![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=A4thu4&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A4thu4&layout=compact&theme=dracula)
+
+--- 
 
 ## 📫 Contato
 <p>
