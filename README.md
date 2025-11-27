@@ -1,9 +1,13 @@
 
+<!-- HEADLINE -->
+<h1 align="center">👨‍💻 Arthur Mamedes</h1>
+<h3 align="center">
+Dev em Formação • Automação & Dados • Estudante de Ciência da Computação • Estagiário na SEAD/GO
+</h3>
 
-# 👋 Olá, eu sou Arthur  
-**Estudante de Ciência da Computação | Dev Python | Automação e Dados | Estagiário na SEAD-GO**
+---
 
-Sou desenvolvedor em formação (4º período) com foco em **desenvolvimento** **automação de processos**, **tratamento de dados**, **redes e segurança**.  
+Desenvolvedor em formação com experiências práticas com foco em **desenvolvimento** **automação de processos**, **tratamento de dados**, **redes e segurança**.  
 Atuo na **Gerência de Normas e Critérios de Produtividade (SEAD/GO)** como estagiário criando soluções que reduzem retrabalho e agilizam rotinas internas.
 
 ---
