@@ -72,7 +72,6 @@ Ferramenta para comparar e destacar diferenças entre textos, pdfs e planilhas.<
 
 ---
 
-## 💡 Estatísticas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A4thu4&layout=compact&theme=dracula)
 
 --- 
