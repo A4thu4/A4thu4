@@ -5,12 +5,11 @@ Desenvolvedor Python • Automação & Dados • Estudante de Ciência da Comput
 </h3>
 
 ---
-<p align="center>
+
 ## 🚀 Sobre mim
 Sou desenvolvedor em formação com experiência prática na criação de ferramentas para **automação de rotinas**, **tratamento de dados** e **apoio à gestão de produtividade no setor público**.  
 Atualmente, trabalho na **Gerência de Normas e Critérios de Produtividade (SEAD/GO)** desenvolvendo soluções que reduzem retrabalho, corrigem inconsistências e aceleram processos internos.
 Tenho interesse em **back-end**, **dados**, **infraestrutura**, **redes** e entender como tudo funciona “por baixo do capô”.
-</p>
   
 ---
 
