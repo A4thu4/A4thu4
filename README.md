@@ -5,8 +5,6 @@ Dev em Formação • Automação • Infraestrutura • Dados  <br/>
 Estudante de Ciência da Computação • Estagiário na SEAD/GO 
 </h3>
 
----
-
 Desenvolvedor em formação com experiência prática na criação de ferramentas para **automação de rotinas**, **tratamento de dados** e **apoio à gestão de produtividade no setor público**.  
 Atualmente, trabalho na **Gerência de Normas e Critérios de Produtividade (SEAD/GO)** desenvolvendo soluções que reduzem retrabalho, corrigem inconsistências e aceleram processos internos.
   
