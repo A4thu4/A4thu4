@@ -41,15 +41,15 @@ Atualmente, trabalho na **Gerência de Normas e Critérios de Produtividade (SEA
 ---
 
 ## 📌 Projetos
-# 🔹 **Promove**
+### 🔹 **Promove**
 Sistema para **calcular evoluções funcionais**, calcular pontuações de produtividade e projetar possível evolução e gerar análises mensais para servidores públicos.
 **Tecnologias Principais:** Python, Streamlit, Pandas, Openpyxl
 
 🔗 https://github.com/A4thu4/Promove
 
----
 
-#🔹 **Comparador**
+
+###🔹 **Comparador**
 Ferramenta para comparar e destacar diferenças entre textos, pdfs e planilhas.
 **Tecnologias Principais:** Python, Streamlit, Pandas, Openpyxl 
 🔗 https://github.com/A4thu4/Comparador
