@@ -49,7 +49,7 @@ Sistema para **calcular evoluções funcionais**, calcular pontuações de produ
 
 ---
 
-###🔹 **Comparador**
+### 🔹 **Comparador**
 Ferramenta para comparar e destacar diferenças entre textos, pdfs e planilhas.
 **Tecnologias Principais:** Python, Streamlit, Pandas, Openpyxl 
 
