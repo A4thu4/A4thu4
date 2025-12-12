@@ -76,7 +76,7 @@ Ferramenta para comparar e destacar diferenças entre textos, pdfs e planilhas.<
 --- 
 
 ## 📫 Contato
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/arthurmamedes)
+![Linkedin][(https://skillicons.dev/icons?i=linkedin)(https://linkedin.com/in/arthurmamedes)]
 <p>
   <a href="mailto:arthurmamedesborges@gmail.com.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
