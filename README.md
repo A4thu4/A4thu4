@@ -77,7 +77,7 @@ Ferramenta para comparar e destacar diferenças entre textos, pdfs e planilhas.<
 
 ## 📫 Contato
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/arthurmamedes)
-[![MAIL](https://skillicons.dev/icons?i=email)](mailto:arthurmamedesborges@gmail.com.com)
+[![MAIL](https://skillicons.dev/icons?i=gmail)](mailto:arthurmamedesborges@gmail.com.com)
 [![PORTFOLIO](https://skillicons.dev/icons?i=github)](https://A4thu4.github.io)
 
 <p>
