@@ -14,11 +14,9 @@ Atualmente, trabalho na **Gerência de Normas e Critérios de Produtividade (SEA
 
 ### 🔹 Linguagens
 ![Python](https://skillicons.dev/icons?i=python)
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+![C](https://skillicons.dev/icons?i=c)
+![SQL](https://skillicons.dev/icons?i=sql)
+
 
 ### 🔹 Bibliotecas & Frameworks
 <p>
