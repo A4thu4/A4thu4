@@ -15,7 +15,7 @@ Atualmente, trabalho na **Gerência de Normas e Critérios de Produtividade (SEA
 ### 🔹 Linguagens
 ![Python](https://skillicons.dev/icons?i=python)
 ![C](https://skillicons.dev/icons?i=c)
-![SQL](https://skillicons.dev/icons?i=sql)
+![SQL](https://skillicons.dev/icons?i=postgresql)
 
 
 ### 🔹 Bibliotecas & Frameworks
