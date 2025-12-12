@@ -34,6 +34,7 @@ Atualmente, trabalho na **Gerência de Normas e Critérios de Produtividade (SEA
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-D1097E?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
 ---
