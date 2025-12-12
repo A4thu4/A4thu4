@@ -32,7 +32,7 @@ Atualmente, trabalho na **Gerência de Normas e Critérios de Produtividade (SEA
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
-![Windows](https://skillicons.dev/icons?i=windows)
+![Docker](https://skillicons.dev/icons?i=docker)
 ![Figma](https://skillicons.dev/icons?i=figma)
 
 ---
