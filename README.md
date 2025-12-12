@@ -19,12 +19,7 @@ Atualmente, trabalho na **Gerência de Normas e Critérios de Produtividade (SEA
 
 
 ### 🔹 Bibliotecas & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenPyXL-1A73E8?style=for-the-badge"/>
-</p>
+![REACT](https://skillicons.dev/icons?i=react)
 
 ### 🔹 Ferramentas
 
