@@ -28,13 +28,7 @@ Atualmente, trabalho na **Gerência de Normas e Critérios de Produtividade (SEA
 
 ### 🔹 Ferramentas
 
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Figma](https://skillicons.dev/icons?i=figma)
-![AZURE](https://skillicons.dev/icons?i=azure)
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-blue?logo=microsoft-power-bi&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,figma,azure,sql)](https://skillicons.dev)
 
 ---
 
