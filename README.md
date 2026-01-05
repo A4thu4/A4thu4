@@ -2,12 +2,12 @@
 <h1 align="center">👨‍💻 Arthur Mamedes Borges</h1>
 <h3 align="center">
 Dev em Formação • Automação • Infraestrutura • Dados  <br/>
-Estudante de Ciência da Computação • Estagiário na SEAD/GO 
+Estudante de Ciência da Computação • Estagiário na SEAD/GO • Empregado em Vobys
 </h3>
 
-Desenvolvedor em formação com experiência prática na criação de ferramentas para **automação de rotinas**, **tratamento de dados** e **apoio à gestão de produtividade no setor público**.  
-Atualmente, trabalho na **Gerência de Normas e Critérios de Produtividade (SEAD/GO)** desenvolvendo soluções que reduzem retrabalho, corrigem inconsistências e aceleram processos internos.
-  
+Desenvolvedor em formação com experiência prática na criação de ferramentas para **automação de rotinas e processos**, **tratamento e análise de de dados** e **apoio à gestão de produtividade no setor público**.  
+Atualmente, trabalho na **Gerência de Normas e Critérios de Produtividade (SEAD/GO)** desenvolvendo soluções que reduzem retrabalho, corrigem inconsistências e aceleram processos internos. Trabalho no tratamaento de requisistos e desenvolvimento de sistemas na **Vobys**
+
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -17,9 +17,8 @@ Atualmente, trabalho na **Gerência de Normas e Critérios de Produtividade (SEA
 ![Python](https://skillicons.dev/icons?i=python)
 ![C](https://skillicons.dev/icons?i=c)
 ![SQL](https://skillicons.dev/icons?i=postgresql)
-<!-- ![JS](https://skillicons.dev/icons?i=javascript)
-<!-- ![JAVA](https://skillicons.dev/icons?i=java) -->
-
+![JAVA](https://skillicons.dev/icons?i=java) 
+<!-- ![JS](https://skillicons.dev/icons?i=javascript) -->
 
 ### 🔹 Bibliotecas & Frameworks
 
@@ -35,7 +34,7 @@ Atualmente, trabalho na **Gerência de Normas e Critérios de Produtividade (SEA
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![AZURE](https://skillicons.dev/icons?i=azure)
-
+![Power BI](https://skillicons.dev/icons?i=powerbi)
 
 ---
 
@@ -56,9 +55,10 @@ Ferramenta para comparar e destacar diferenças entre textos, pdfs e planilhas.<
 
 ## 📚 O que estou estudando
 - Disponibilização do meu próprio dominio para divulgar meus projetos.
-- Banco de Dados e Segurança de Redes mais aprofundado.
-- Automação de processos.
 - Sistemas Web Docker e VPS.
+- Banco de Dados e Segurança de Redes aprofundado.
+- Automação de processos.
+- Desenvolvimento de Sistemas (Pyhton e Java)
 
 ---
 
