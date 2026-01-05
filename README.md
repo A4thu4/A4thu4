@@ -69,10 +69,6 @@ Ferramenta para comparar e destacar diferenças entre textos, pdfs e planilhas.<
 - Dev full-stack.
 - Infraestrutura (redes e sistemas).
 
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A4thu4&layout=compact&theme=dracula)
-
 --- 
 
 ## 📫 Contato e Informações
