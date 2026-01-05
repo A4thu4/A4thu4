@@ -6,7 +6,7 @@ Estudante de Ciência da Computação • Estagiário na SEAD/GO • Empregado e
 </h3>
 
 Desenvolvedor em formação com experiência prática na criação de ferramentas para **automação de rotinas e processos**, **tratamento e análise de dados** e **apoio à gestão de produtividade no setor público**.  
-Atualmente, trabalho na **Gerência de Normas e Critérios de Produtividade (SEAD/GO)** desenvolvendo soluções que reduzem retrabalho, corrigem inconsistências e aceleram processos internos. Trabalho no tratamaento de requisistos e desenvolvimento de sistemas na **Vobys**
+Atualmente, trabalho na **Gerência de Normas e Critérios de Produtividade (SEAD/GO)** desenvolvendo soluções que reduzem retrabalho, corrigem inconsistências e aceleram processos internos e no levantamento e tratamento de requisistos e desenvolvimento de sistemas na **Vobys**.
 
 ---
 
