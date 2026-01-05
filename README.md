@@ -34,7 +34,7 @@ Atualmente, trabalho na **Gerência de Normas e Critérios de Produtividade (SEA
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![AZURE](https://skillicons.dev/icons?i=azure)
-![Power BI](https://skillicons.dev/icons?i=powerbi)
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-blue?logo=microsoft-power-bi&logoColor=white)
 
 ---
 
