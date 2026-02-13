@@ -27,7 +27,7 @@ Atualmente, trabalho na **Gerência de Normas e Critérios de Produtividade (SEA
 ---
 
 ## 📌 Projetos
-### 🔹 **Promove**
+### 🔹 **Simulador Promove**
 Sistema para **calcular evoluções funcionais**, calcular pontuações de produtividade e projetar possível evolução e gerar análises mensais para servidores públicos.<br/>
 **Tecnologias Principais:** Python, Streamlit, Pandas, Openpyxl
 
