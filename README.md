@@ -1,12 +1,11 @@
 <!-- HEADLINE -->
 <h1 align="center">👨‍💻 Arthur Mamedes Borges</h1>
 <h3 align="center">
-Dev em Formação • Automação • Infraestrutura • Dados  <br/>
+Dev • Automação • Infraestrutura • Dados  <br/>
 Estudante de Ciência da Computação • Estagiário na SEAD/GO • Empregado em Vobys
 </h3>
-
-Desenvolvedor em formação com experiência prática na criação de ferramentas para **automação de rotinas e processos**, **tratamento e análise de dados** e **apoio à gestão de produtividade no setor público**.  
-Atualmente, trabalho na **Gerência de Normas e Critérios de Produtividade (SEAD/GO)** desenvolvendo soluções que reduzem retrabalho, corrigem inconsistências e aceleram processos internos e no levantamento e tratamento de requisistos e desenvolvimento de sistemas na **Vobys**.
+ 
+Desenvolvedor em formação. Profissional com base sólida em Ciência da Computação, com experiência em levantamento de requisitos voltado à arquitetura de software, desenvolvimento de sistemas funcionais e automação de processos para ganho de eficiência operacional. Experiência técnica em modelagem e análise de dados e containerização. Capacidade de traduzir necessidades de negócio em soluções lógicas, com ênfase em código limpo e otimização de fluxos de trabalho.
 
 ---
 
@@ -14,7 +13,7 @@ Atualmente, trabalho na **Gerência de Normas e Critérios de Produtividade (SEA
 
 ### 🔹 Linguagens
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,postgres,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,postgres)](https://skillicons.dev)
 
 ### 🔹 Bibliotecas & Frameworks
 
@@ -22,25 +21,25 @@ Atualmente, trabalho na **Gerência de Normas e Critérios de Produtividade (SEA
 
 ### 🔹 Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,figma,azure,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,docker,figma,azure,sql)](https://skillicons.dev)
 
 ---
 
-## 📚 O que estou estudando
-- Disponibilização do meu próprio dominio para divulgar meus projetos.
-- Sistemas Web Docker e VPS.
-- Banco de Dados e Segurança de Redes aprofundado.
-- Automação de processos.
-- Desenvolvimento de Sistemas (Pyhton e Java)
+## Stack de Estudos Atual
+
+- **IaC & Deployment:** Provisionamento de serviços em VPS utilizando Docker e orquestração de containers para deploy de aplicações.
+- **Engenharia de Software:** Aprofundamento em Python e Java, com foco em padrões de projeto e sistemas distribuídos.
+- **Segurança e Persistência:** Administração de Bancos de Dados e protocolos de rede.
+- **Automação:** Desenvolvimento de scripts para otimização de workflows e pipelines de CI/CD.
 
 ---
 
 ## 🎯 Interesses
-- Automação e produtividade.
-- Desenvolvimento de sistemas.
-- Ciência de dados.
-- Dev full-stack.
-- Infraestrutura (redes e sistemas).
+
+- **Backend Engineering:** Arquitetura de sistemas robustos e escaláveis.
+- **Data Science & Analytics:** Extração de valor através de modelos estatísticos e matemáticos.
+- **Full-stack Development:** Integração ponta-a-ponta, do protocolo HTTP à interface do usuário.
+- **Cloud & Networking:** Gestão de infraestrutura crítica e topologias de rede.
 
 --- 
 
