@@ -7,19 +7,17 @@ Estudante de Ciência da Computação • Estagiário na SEAD/GO • Empregado e
  
 Desenvolvedor em formação. Profissional com base sólida em Ciência da Computação, com experiência em levantamento de requisitos voltado à arquitetura de software, desenvolvimento de sistemas funcionais e automação de processos para ganho de eficiência operacional. Experiência técnica em modelagem e análise de dados e containerização. Capacidade de traduzir necessidades de negócio em soluções lógicas, com ênfase em código limpo e otimização de fluxos de trabalho.
 
+## 🛠️ Tech Stack & Ferramentas
+
 ---
-
-## 🛠️ Tecnologias & Ferramentas
-
-### 🔹 Linguagens
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,java,postgres)](https://skillicons.dev)
 
-### 🔹 Bibliotecas & Frameworks
+---
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
-### 🔹 Ferramentas
+---
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,docker,figma,azure,sql)](https://skillicons.dev)
 
@@ -41,10 +39,18 @@ Desenvolvedor em formação. Profissional com base sólida em Ciência da Comput
 - **Full-stack Development:** Integração ponta-a-ponta, do protocolo HTTP à interface do usuário.
 - **Cloud & Networking:** Gestão de infraestrutura crítica e topologias de rede.
 
---- 
+---
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=a4thu4&theme=github-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=a4thu4&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+</div>
+
+---
 ## 📫 Contato e Informações
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/arthurmamedes)
 [![MAIL](https://skillicons.dev/icons?i=gmail)](mailto:arthurmamedesborges@gmail.com.com)
 [![PORTFOLIO](https://skillicons.dev/icons?i=github)](https://portfolio.arthemiz.com.br/)
+
 
