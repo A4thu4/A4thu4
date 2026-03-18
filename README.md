@@ -52,6 +52,8 @@ Desenvolvedor em formação. Profissional com base sólida em Ciência da Comput
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/arthurmamedes)
 [![MAIL](https://skillicons.dev/icons?i=gmail)](mailto:arthurmamedesborges@gmail.com.com)
 [![PORTFOLIO](https://skillicons.dev/icons?i=github)](https://portfolio.arthemiz.com.br)
-[![ORGANIZATION](<img src="./icons/Arthemiz.svg" width="48"> )
+<a href="https://www.arthemiz.com">
+  <img src="./docs/icons/logo.svg" width="48" alt="Arthemiz"/>
+</a>
 
 
