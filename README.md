@@ -5,7 +5,7 @@ Dev • Automação • Infraestrutura • Dados  <br/>
 Estudante de Ciência da Computação • Estagiário na SEAD/GO • Empregado em Vobys
 </h3>
  
-Desenvolvedor em formação. Profissional com base sólida em Ciência da Computação, com experiência em levantamento de requisitos voltado à arquitetura de software, desenvolvimento de sistemas funcionais e automação de processos para ganho de eficiência operacional. Experiência técnica em modelagem e análise de dados e containerização. Capacidade de traduzir necessidades de negócio em soluções lógicas, com ênfase em código limpo e otimização de fluxos de trabalho.
+Desenvolvedor em formação. Profissional com base sólida em Ciência da Computação, com experiência em desenvolvimento de sistemas e automação de processos. Experiência técnica em modelagem e análise de dados e containerização.
 
 ## 🛠️ Tech Stack & Ferramentas
 
@@ -15,11 +15,11 @@ Desenvolvedor em formação. Profissional com base sólida em Ciência da Comput
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,docker,figma,azure,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,docker,figma,azure)](https://skillicons.dev)
 
 ---
 
@@ -51,6 +51,7 @@ Desenvolvedor em formação. Profissional com base sólida em Ciência da Comput
 ## 📫 Contato e Informações
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/arthurmamedes)
 [![MAIL](https://skillicons.dev/icons?i=gmail)](mailto:arthurmamedesborges@gmail.com.com)
-[![PORTFOLIO](https://skillicons.dev/icons?i=github)](https://portfolio.arthemiz.com.br/)
+[![PORTFOLIO](https://skillicons.dev/icons?i=github)](https://portfolio.arthemiz.com.br)
+[![ORGANIZATION](<img src="./icons/Arthemiz.svg" width="48"> )
 
 
