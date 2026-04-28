@@ -2,7 +2,7 @@
 <h1 align="center">👨‍💻 Arthur Mamedes Borges</h1>
 <h3 align="center">
 Dev • Automação • Infraestrutura • Dados  <br/>
-Estudante de Ciência da Computação • Estagiário na SEAD/GO • Empregado em Vobys
+Estudante de Ciência da Computação
 </h3>
  
 Desenvolvedor em formação. Profissional com base sólida em Ciência da Computação, com experiência em desenvolvimento de sistemas e automação de processos. Experiência técnica em modelagem e análise de dados e containerização.
