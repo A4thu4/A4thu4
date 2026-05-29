@@ -11,15 +11,19 @@ Desenvolvedor em formação. Profissional com base sólida em Ciência da Comput
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=c,python,java)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,figma)](https://skillicons.dev)
 
----
+[![My Skills](https://skillicons.dev/icons?i=docker,azure,aws)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,docker,figma,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,vscode)](https://skillicons.dev)
 
 ---
 
