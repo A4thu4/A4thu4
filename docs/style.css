@@ -180,6 +180,8 @@ a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outlin
   padding: 26px; transition: border-color 0.2s, transform 0.2s;
 }
 .project:hover { border-color: color-mix(in srgb, var(--accent) 50%, var(--border)); transform: translateY(-2px); }
+/* card sobrando numa linha ocupa a largura toda */
+.projects > .project:last-child:nth-child(odd) { grid-column: 1 / -1; }
 .project-wide { background: linear-gradient(160deg, var(--surface-2), var(--surface)); }
 .project h3 { font-size: 1.35rem; }
 .project > p { color: var(--text); }
