@@ -35,7 +35,17 @@ Construo sistemas que rodam em produção para o setor público e para clientes 
 
 > A maioria dos projetos acima tem código privado (cliente ou setor público). Os detalhes estão no [portfólio](https://portfolio.arthemiz.com.br).
 
-**Repositórios públicos:** [Assistente de Delivery (Step Functions + Bedrock)](https://github.com/A4thu4/assistente-delivery-stepfunctions-bedrock) · [Extração com Textract](https://github.com/A4thu4/extracao-texto-aws-textract) · [BiblioSystem](https://github.com/ArthemizLabs/biblio-system) · [Jornada Dev](https://github.com/ArthemizLabs/jornada-dev) · [Promove v1](https://github.com/A4thu4/Promove)
+### Bootcamp, QA e faculdade
+
+| Repositório | O que é | Stack |
+| --- | --- | --- |
+| [Assistente de Delivery](https://github.com/A4thu4/assistente-delivery-stepfunctions-bedrock) | Bootcamp Nublify (DIO): pedido orquestrado no Step Functions com mensagem gerada pelo Bedrock | Step Functions · Bedrock · IAM |
+| [Extração com Textract](https://github.com/A4thu4/extracao-texto-aws-textract) | Bootcamp Nublify (DIO): OCR de lista de material escolar para JSON | Python · boto3 · Textract |
+| [Wiki Inteligente](https://github.com/A4thu4/laboratorio-wiki-aws) | Bootcamp Nublify (DIO): arquitetura que transforma PDF, imagem e CSV em base de perguntas com citação | S3 · Step Functions · Textract · Bedrock |
+| [Teste técnico de QA](https://github.com/A4thu4/teste-qa-verzel) | 84 cenários em Gherkin, 57 automatizados, 2 bugs de severidade alta encontrados | Playwright · pytest |
+| Sistema de Gestão de Competências *(privado)* | Projeto da PUC Goiás em que sou **gerente de projeto** de uma equipe de 5, na etapa de requisitos | Requisitos · BPMN · Kanban |
+
+**Outros públicos:** [BiblioSystem](https://github.com/ArthemizLabs/biblio-system) · [Jornada Dev](https://github.com/ArthemizLabs/jornada-dev) · [Promove v1](https://github.com/A4thu4/Promove)
 
 ## Tech stack
 
@@ -90,6 +100,12 @@ Backend developer in training and Computer Science student at PUC Goiás (Brazil
 | **SEAD Comparator** | Compares text, PDFs and spreadsheets and exports the diff as PDF/XLSX ([public v1](https://github.com/A4thu4/Comparador)) | Java 21 · Spring Boot · Thymeleaf | 🟢 In use |
 
 Most of these have private source code (client or public sector work). Details on my [portfolio](https://portfolio.arthemiz.com.br).
+
+### Bootcamp, QA and university
+
+- **Nublify bootcamp: First steps in AI and Cloud (DIO):** [Delivery Assistant](https://github.com/A4thu4/assistente-delivery-stepfunctions-bedrock) (Step Functions + Bedrock), [Textract Extraction](https://github.com/A4thu4/extracao-texto-aws-textract) (OCR to JSON) and [Smart Wiki](https://github.com/A4thu4/laboratorio-wiki-aws) (document Q&A architecture on AWS).
+- **[QA technical test](https://github.com/A4thu4/teste-qa-verzel):** 84 Gherkin scenarios, 57 automated with Playwright, 2 high-severity bugs found.
+- **Competency Management System** *(private)*: PUC Goiás project where I am the **project manager** of a 5-person team, currently in requirements engineering.
 
 **Languages:** Portuguese (native), English (advanced), Japanese (basic).
 
