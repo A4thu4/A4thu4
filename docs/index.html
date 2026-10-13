@@ -1,73 +1,387 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Portfólio - Arthur Mamedes Borges</title>
-    <link rel="stylesheet" href="style.css" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Arthur Mamedes Borges · Portfólio</title>
+  <meta name="description" content="Arthur Mamedes Borges - desenvolvedor backend em formação. Sistemas em produção com Python, FastAPI, Java, Spring Boot, PostgreSQL, Docker e Cloud." />
+  <meta name="color-scheme" content="dark light" />
+  <meta property="og:title" content="Arthur Mamedes Borges · Portfólio" />
+  <meta property="og:description" content="Desenvolvedor backend em formação. Sistemas em produção para o setor público e clientes reais." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://portfolio.arthemiz.com.br/" />
+  <link rel="icon" type="image/png" href="icons/arthemiz.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
 </head>
 
 <body>
-    <header>
-        <h1>Arthur Mamedes Borges</h1>
-        <p>Dev em Formação • Estudante de Ciência da Computação <br/>
-         Automação & Infraestrutura & Dados • Estágiario na SEAD/GO</p>
-    </header>
+  <a class="skip" href="#conteudo">
+    <span data-lang="pt">Pular para o conteúdo</span><span data-lang="en">Skip to content</span>
+  </a>
 
-    <section id="sobre">
-        <h2>Sobre</h2>
-        <p>
-            Sou estudante de Ciência da Computação e trabalho com 
-            <strong>automação de processos, dados e desenvolvimento de sistemas</strong>
-            na SEAD/GO, desenvolvo ferramentas para reduzir retrabalho, melhorar a produtividade 
-            e apoiar a gestão.
+  <header class="topbar">
+    <div class="wrap topbar-inner">
+      <a class="brand" href="#topo">
+        <span class="brand-mark">AMB</span>
+        <span class="brand-name">Arthur Borges</span>
+      </a>
+      <nav class="nav" aria-label="Seções">
+        <a href="#projetos"><span data-lang="pt">Projetos</span><span data-lang="en">Projects</span></a>
+        <a href="#stack">Stack</a>
+        <a href="#trajetoria"><span data-lang="pt">Trajetória</span><span data-lang="en">Path</span></a>
+        <a href="#contato"><span data-lang="pt">Contato</span><span data-lang="en">Contact</span></a>
+      </nav>
+      <button class="lang-toggle" type="button" id="lang-toggle" aria-label="Mudar idioma / Change language">
+        <span class="lang-opt" data-opt="pt">PT</span>
+        <span class="lang-sep">/</span>
+        <span class="lang-opt" data-opt="en">EN</span>
+      </button>
+    </div>
+  </header>
+
+  <main id="conteudo">
+    <!-- HERO -->
+    <section class="hero" id="topo">
+      <div class="wrap">
+        <p class="eyebrow">
+          <span class="dot"></span>
+          <span>Backend · <span data-lang="pt">Dados</span><span data-lang="en">Data</span> · Cloud</span>
         </p>
-    </section>
-
-    <section id="habilidades">
-        <h2>Habilidades</h2>
-        <ul>
-            <li>Infraestrutura, Segurança e Dados</li>
-            <li>Python, C, SQL</li>
-            <li>Pandas, NumPy, Streamlit, OpenPyXL</li>
-            <li>Git/GitHub, Docker, Excel VBA</li>
+        <h1>Arthur Mamedes Borges</h1>
+        <p class="hero-lead">
+          <span data-lang="pt">Desenvolvedor backend em formação. Construo sistemas que rodam em produção para o setor público e para clientes reais, do banco de dados ao deploy.</span>
+          <span data-lang="en">Backend developer in training. I build systems that run in production for the public sector and real clients, from the database to the deploy.</span>
+        </p>
+        <ul class="hero-meta">
+          <li><span data-lang="pt">Ciência da Computação · PUC Goiás</span><span data-lang="en">Computer Science · PUC Goiás</span></li>
+          <li><span data-lang="pt">Estagiário Dev/Dados · SEAD-GO</span><span data-lang="en">Dev/Data Intern · SEAD-GO (Goiás State Gov.)</span></li>
+          <li><span data-lang="pt">Goiás, Brasil · UTC-3</span><span data-lang="en">Goiás, Brazil · UTC-3</span></li>
         </ul>
-    </section>
-
-    <section id="projetos">
-        <h2>Projetos</h2>
-
-        <div class="card">
-            <h3>Promove</h3>
-            <p>
-                Sistema para calcular evoluções funcionais, pontuação de produtividade </br>
-                e gerar análises completas de carreira para servidores públicos.
-            </p>
-            <p><strong>Tecnologias:</strong> Python, Streamlit, Pandas, OpenPyXL</p>
-            <a href="https://github.com/A4thu4/Promove" target="_blank">Ver projeto</a>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="#projetos"><span data-lang="pt">Ver projetos</span><span data-lang="en">See projects</span></a>
+          <a class="btn btn-ghost" href="https://github.com/A4thu4" target="_blank" rel="noopener">GitHub</a>
+          <a class="btn btn-ghost" href="https://linkedin.com/in/arthurmamedes" target="_blank" rel="noopener">LinkedIn</a>
         </div>
 
-        <div class="card">
-            <h3>Comparador</h3>
+        <dl class="stats">
+          <div><dt>2</dt><dd><span data-lang="pt">sistemas em produção na nuvem</span><span data-lang="en">systems in production on the cloud</span></dd></div>
+          <div><dt>3</dt><dd><span data-lang="pt">nuvens usadas em deploy real (AWS, Oracle, Azure)</span><span data-lang="en">clouds used in real deploys (AWS, Oracle, Azure)</span></dd></div>
+          <div><dt>4</dt><dd><span data-lang="pt">linguagens no dia a dia (Python, Java, PHP, TS)</span><span data-lang="en">languages in daily use (Python, Java, PHP, TS)</span></dd></div>
+        </dl>
+      </div>
+    </section>
+
+    <!-- PROJETOS EM DESTAQUE -->
+    <section class="section" id="projetos">
+      <div class="wrap">
+        <header class="section-head">
+          <p class="kicker">01</p>
+          <h2><span data-lang="pt">Projetos em destaque</span><span data-lang="en">Featured projects</span></h2>
+          <p class="section-sub">
+            <span data-lang="pt">Sistemas usados por gente de verdade. A maioria tem código privado por ser de cliente ou do setor público, então descrevo o problema, a solução e o que aprendi.</span>
+            <span data-lang="en">Systems used by real people. Most have private source code because they belong to clients or the public sector, so I describe the problem, the solution and what I learned.</span>
+          </p>
+        </header>
+
+        <div class="projects">
+          <article class="project project-wide">
+            <div class="project-top">
+              <span class="badge badge-live"><span data-lang="pt">Em produção</span><span data-lang="en">In production</span></span>
+              <span class="badge badge-muted"><span data-lang="pt">Código privado</span><span data-lang="en">Private code</span></span>
+            </div>
+            <h3>Simulador PROMOVE</h3>
             <p>
-                Ferramenta para comparar arquivos (texto, PDF e planilhas) e destacar diferenças.
+              <span data-lang="pt">Plataforma web que simula a evolução funcional de servidores públicos de Goiás: verifica aptidão, projeta a data da próxima evolução e processa lotes inteiros via planilha. Um módulo lê processos do SEI em PDF com LLM (Claude ou Gemini) e devolve JSON validado para o motor de regras.</span>
+              <span data-lang="en">Web platform that simulates career progression for Goiás state public servants: it checks eligibility, projects the next promotion date and processes whole batches from spreadsheets. One module reads SEI case files (PDF) with an LLM (Claude or Gemini) and returns validated JSON to the rules engine.</span>
             </p>
-            <p><strong>Tecnologias:</strong> Python, Streamlit, Pandas</p>
-            <a href="https://github.com/A4thu4/Comparador" target="_blank">Ver projeto</a>
+            <ul class="highlights">
+              <li><span data-lang="pt">Auth JWT com RBAC de 4 perfis e painel administrativo</span><span data-lang="en">JWT auth with 4-role RBAC and an admin panel</span></li>
+              <li><span data-lang="pt">Docker Compose na AWS EC2, Cloudflare na frente, deploy via SSM</span><span data-lang="en">Docker Compose on AWS EC2 behind Cloudflare, deployed via SSM</span></li>
+              <li><span data-lang="pt">Migrations com Alembic, pytest e ruff no CI</span><span data-lang="en">Alembic migrations, pytest and ruff in CI</span></li>
+            </ul>
+            <ul class="tags">
+              <li>FastAPI</li><li>PostgreSQL</li><li>Next.js</li><li>Tailwind</li><li>Docker</li><li>AWS</li><li>LLM</li>
+            </ul>
+            <a class="project-link" href="https://simulador-promove.arthemiz.com.br" target="_blank" rel="noopener">simulador-promove.arthemiz.com.br ↗</a>
+          </article>
+
+          <article class="project project-wide">
+            <div class="project-top">
+              <span class="badge badge-live"><span data-lang="pt">Em produção</span><span data-lang="en">In production</span></span>
+              <span class="badge badge-muted"><span data-lang="pt">Código privado</span><span data-lang="en">Private code</span></span>
+            </div>
+            <h3>cobranca-app</h3>
+            <p>
+              <span data-lang="pt">SaaS multi-tenant de cobrança via WhatsApp com CRM. Herdei um frontend gerado no Lovable preso a um Supabase que ninguém mais acessava e reescrevi o backend inteiro do zero, mantendo o React.</span>
+              <span data-lang="en">Multi-tenant SaaS for debt collection over WhatsApp with a built-in CRM. I inherited a Lovable-generated frontend locked to a Supabase project nobody could access anymore and rewrote the entire backend from scratch, keeping the React app.</span>
+            </p>
+            <ul class="highlights">
+              <li><span data-lang="pt">White-label por domínio, com marca e módulos configuráveis por organização</span><span data-lang="en">Domain-based white-label with per-organization branding and modules</span></li>
+              <li><span data-lang="pt">Painel de plataforma com auditoria de toda mutação e mais de 195 testes</span><span data-lang="en">Platform admin panel with every mutation audited and 195+ tests</span></li>
+              <li><span data-lang="pt">2 VMs ARM na Oracle Cloud, Nginx com TLS por zona, Evolution API</span><span data-lang="en">2 ARM VMs on Oracle Cloud, Nginx with per-zone TLS, Evolution API</span></li>
+            </ul>
+            <ul class="tags">
+              <li>FastAPI</li><li>SQLAlchemy</li><li>Alembic</li><li>PostgreSQL</li><li>React</li><li>Nginx</li><li>Oracle Cloud</li>
+            </ul>
+            <a class="project-link" href="https://cobranca-app.arthemiz.com.br" target="_blank" rel="noopener">cobranca-app.arthemiz.com.br ↗</a>
+          </article>
+
+          <article class="project">
+            <div class="project-top">
+              <span class="badge badge-live"><span data-lang="pt">Em uso</span><span data-lang="en">In use</span></span>
+              <span class="badge badge-muted"><span data-lang="pt">Código privado</span><span data-lang="en">Private code</span></span>
+            </div>
+            <h3>Portal Serviços Goiás</h3>
+            <p>
+              <span data-lang="pt">App desktop que automatiza rotinas administrativas no SEI: conferência de promoção e progressão e despachos em massa com anexos. Substituiu scripts de milhares de linhas por serviços modulares.</span>
+              <span data-lang="en">Desktop app that automates administrative routines in SEI (the government case system): promotion checks and bulk dispatches with attachments. It replaced scripts with thousands of lines with modular services.</span>
+            </p>
+            <ul class="highlights">
+              <li><span data-lang="pt">Arquitetura de plugins: cada serviço se registra sozinho no menu</span><span data-lang="en">Plugin architecture: each service registers itself in the menu</span></li>
+              <li><span data-lang="pt">Login validado no CAS com TLS verificado, credenciais só em memória</span><span data-lang="en">Login validated against CAS with verified TLS, credentials kept only in memory</span></li>
+              <li><span data-lang="pt">Launcher que distribui versões conferindo SHA-256</span><span data-lang="en">Launcher that ships new versions checking SHA-256</span></li>
+            </ul>
+            <ul class="tags"><li>Python</li><li>Selenium</li><li>customtkinter</li><li>PyInstaller</li><li>RPA</li></ul>
+          </article>
+
+          <article class="project">
+            <div class="project-top">
+              <span class="badge badge-live"><span data-lang="pt">Em uso</span><span data-lang="en">In use</span></span>
+              <span class="badge badge-muted"><span data-lang="pt">Código privado</span><span data-lang="en">Private code</span></span>
+            </div>
+            <h3>Comparador SEAD</h3>
+            <p>
+              <span data-lang="pt">Ferramenta interna que compara textos, PDFs, DOCX e planilhas lado a lado e exporta o diff em PDF ou XLSX. Camadas separadas para trocar o frontend por React sem mexer na regra.</span>
+              <span data-lang="en">Internal tool that compares text, PDF, DOCX and spreadsheets side by side and exports the diff as PDF or XLSX. Layers are split so the frontend can move to React without touching business logic.</span>
+            </p>
+            <ul class="tags"><li>Java 21</li><li>Spring Boot 3</li><li>Thymeleaf</li><li>Apache POI</li><li>PDFBox</li></ul>
+            <a class="project-link" href="https://github.com/A4thu4/Comparador" target="_blank" rel="noopener"><span data-lang="pt">v1 pública em Python ↗</span><span data-lang="en">Public v1 in Python ↗</span></a>
+          </article>
+
+          <article class="project">
+            <div class="project-top">
+              <span class="badge badge-dev"><span data-lang="pt">Em desenvolvimento</span><span data-lang="en">In development</span></span>
+              <span class="badge badge-muted"><span data-lang="pt">Código privado</span><span data-lang="en">Private code</span></span>
+            </div>
+            <h3><span data-lang="pt">Sistema de Teletrabalho</span><span data-lang="en">Remote Work Management System</span></h3>
+            <p>
+              <span data-lang="pt">Plataforma institucional para planos de trabalho, metas, jornada, entregas e avaliação de servidores em teletrabalho. PHP sem framework, de propósito, para rodar em hospedagem compartilhada.</span>
+              <span data-lang="en">Institutional platform for work plans, goals, hours, deliverables and reviews of public servants working remotely. Framework-less PHP on purpose, to run on shared hosting.</span>
+            </p>
+            <ul class="highlights">
+              <li><span data-lang="pt">MVC com Front Controller, ~28 tabelas com auditoria e soft delete</span><span data-lang="en">MVC with a Front Controller, ~28 tables with auditing and soft delete</span></li>
+              <li><span data-lang="pt">RBAC de 5 perfis combinado com hierarquia</span><span data-lang="en">5-role RBAC combined with org hierarchy</span></li>
+            </ul>
+            <ul class="tags"><li>PHP</li><li>MySQL</li><li>Bootstrap</li><li>Docker</li></ul>
+          </article>
+
+          <article class="project">
+            <div class="project-top">
+              <span class="badge badge-done"><span data-lang="pt">Entregue</span><span data-lang="en">Delivered</span></span>
+              <span class="badge badge-muted"><span data-lang="pt">Cliente privado</span><span data-lang="en">Private client</span></span>
+            </div>
+            <h3><span data-lang="pt">Agendamento de Abate</span><span data-lang="en">Cattle Scheduling System</span></h3>
+            <p>
+              <span data-lang="pt">Sistema para um frigorífico agendar e receber gado: capacidade diária configurável, vários caminhões por agendamento e score automático de corretores pela pontualidade das entregas.</span>
+              <span data-lang="en">System for a meat-packing plant to schedule and receive cattle: configurable daily capacity, multiple trucks per booking and an automatic broker score based on delivery accuracy.</span>
+            </p>
+            <ul class="tags"><li>FastAPI</li><li>PostgreSQL</li><li>React</li><li>Vite</li><li>Tailwind</li><li>JWT</li></ul>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ESTUDOS E OPEN SOURCE -->
+    <section class="section section-alt" id="estudos">
+      <div class="wrap">
+        <header class="section-head">
+          <p class="kicker">02</p>
+          <h2><span data-lang="pt">Código aberto e laboratórios</span><span data-lang="en">Open source and labs</span></h2>
+          <p class="section-sub">
+            <span data-lang="pt">Repositórios públicos de estudo, faculdade e desafios de nuvem.</span>
+            <span data-lang="en">Public repositories from studies, university and cloud challenges.</span>
+          </p>
+        </header>
+
+        <div class="mini-grid">
+          <a class="mini" href="https://github.com/A4thu4/assistente-delivery-stepfunctions-bedrock" target="_blank" rel="noopener">
+            <span class="mini-kind">AWS</span>
+            <h3><span data-lang="pt">Assistente de Delivery</span><span data-lang="en">Delivery Assistant</span></h3>
+            <p><span data-lang="pt">Orquestra pedidos com Step Functions e gera mensagens com Amazon Bedrock.</span><span data-lang="en">Orchestrates orders with Step Functions and writes messages with Amazon Bedrock.</span></p>
+            <span class="mini-tags">Step Functions · Bedrock · Serverless</span>
+          </a>
+          <a class="mini" href="https://github.com/A4thu4/extracao-texto-aws-textract" target="_blank" rel="noopener">
+            <span class="mini-kind">AWS</span>
+            <h3><span data-lang="pt">Extração com Textract</span><span data-lang="en">Textract Extraction</span></h3>
+            <p><span data-lang="pt">OCR de lista de material escolar transformada em dados estruturados.</span><span data-lang="en">OCR that turns a school supply list into structured data.</span></p>
+            <span class="mini-tags">Python · boto3 · Textract</span>
+          </a>
+          <a class="mini" href="https://github.com/ArthemizLabs/biblio-system" target="_blank" rel="noopener">
+            <span class="mini-kind"><span data-lang="pt">Faculdade</span><span data-lang="en">University</span></span>
+            <h3>BiblioSystem</h3>
+            <p><span data-lang="pt">Gestão de biblioteca com empréstimos, reservas e login por perfil.</span><span data-lang="en">Library management with loans, reservations and role-based login.</span></p>
+            <span class="mini-tags">Java · Swing · JDBC · MySQL</span>
+          </a>
+          <a class="mini" href="https://github.com/ArthemizLabs/jornada-dev" target="_blank" rel="noopener">
+            <span class="mini-kind">Frontend</span>
+            <h3>Jornada Dev</h3>
+            <p><span data-lang="pt">Plataforma de estudos gamificada com tema de RPG e 20 trilhas.</span><span data-lang="en">Gamified, RPG-themed learning platform with 20 tracks.</span></p>
+            <span class="mini-tags">React · TypeScript · Tailwind 4</span>
+          </a>
+          <a class="mini" href="https://github.com/A4thu4/Promove" target="_blank" rel="noopener">
+            <span class="mini-kind">v1</span>
+            <h3>Promove (Streamlit)</h3>
+            <p><span data-lang="pt">Primeira versão do simulador, feita em Python antes da reescrita full-stack.</span><span data-lang="en">First version of the simulator, built in Python before the full-stack rewrite.</span></p>
+            <span class="mini-tags">Python · Streamlit · Pandas</span>
+          </a>
+          <div class="mini mini-static">
+            <span class="mini-kind"><span data-lang="pt">Requisitos</span><span data-lang="en">Requirements</span></span>
+            <h3><span data-lang="pt">Gestão de Competências</span><span data-lang="en">Competency Management</span></h3>
+            <p><span data-lang="pt">Avaliações 360º. Projeto de Engenharia de Software, hoje na etapa de levantamento de requisitos.</span><span data-lang="en">360º reviews. Software Engineering course project, currently in requirements gathering.</span></p>
+            <span class="mini-tags"><span data-lang="pt">Engenharia de Requisitos</span><span data-lang="en">Requirements Engineering</span></span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- STACK -->
+    <section class="section" id="stack">
+      <div class="wrap">
+        <header class="section-head">
+          <p class="kicker">03</p>
+          <h2>Stack</h2>
+          <p class="section-sub">
+            <span data-lang="pt">O que já usei em projeto real, separado do que estou estudando agora.</span>
+            <span data-lang="en">What I have used in real projects, separate from what I am studying now.</span>
+          </p>
+        </header>
+
+        <div class="stack">
+          <div class="stack-col">
+            <h3>Backend</h3>
+            <ul><li>Python · FastAPI</li><li>Java · Spring Boot</li><li>PHP (MVC)</li><li>REST · JWT · RBAC</li></ul>
+          </div>
+          <div class="stack-col">
+            <h3><span data-lang="pt">Dados</span><span data-lang="en">Data</span></h3>
+            <ul><li>PostgreSQL · MySQL · Oracle</li><li>SQLAlchemy · Alembic</li><li>Pandas · OpenPyXL</li><li><span data-lang="pt">Extração de PDF com LLM</span><span data-lang="en">PDF extraction with LLMs</span></li></ul>
+          </div>
+          <div class="stack-col">
+            <h3><span data-lang="pt">Infra e Cloud</span><span data-lang="en">Infra and Cloud</span></h3>
+            <ul><li>Docker · Docker Compose</li><li>Nginx · Cloudflare</li><li>AWS · Oracle Cloud · Azure</li><li>GitHub Actions</li></ul>
+          </div>
+          <div class="stack-col">
+            <h3>Frontend</h3>
+            <ul><li>HTML · CSS · JavaScript</li><li>React · Next.js · TypeScript</li><li>Tailwind CSS</li><li>Figma</li></ul>
+          </div>
         </div>
 
+        <div class="learning">
+          <span class="learning-label"><span data-lang="pt">Estudando agora</span><span data-lang="en">Learning now</span></span>
+          <ul class="tags"><li>Kubernetes</li><li>Linux</li><li>Redis</li><li>RabbitMQ</li><li><span data-lang="pt">Certificações AWS / Azure</span><span data-lang="en">AWS / Azure certs</span></li><li>OWASP</li></ul>
+        </div>
+      </div>
     </section>
 
-    <section id="contato">
-        <h2>Contato</h2>
-        <p>Email: arthurmamedesborges@gmail.com</p>
-        <p>LinkedIn: <a href="https://linkedin.com/in/arthurmamedes" target="_blank">linkedin.com/in/arthurmamedes</a></p>
-        <p>GitHub: <a href="https://github.com/A4thu4" target="_blank">github.com/A4thu4</a></p>
+    <!-- TRAJETÓRIA -->
+    <section class="section section-alt" id="trajetoria">
+      <div class="wrap">
+        <header class="section-head">
+          <p class="kicker">04</p>
+          <h2><span data-lang="pt">Trajetória</span><span data-lang="en">Path</span></h2>
+        </header>
+
+        <ol class="timeline">
+          <li>
+            <span class="tl-year">2026</span>
+            <div>
+              <h3>Foundation</h3>
+              <p><span data-lang="pt">Primeiros sistemas em produção, Docker e deploy em nuvem no dia a dia, base sólida de backend e SQL.</span><span data-lang="en">First systems in production, Docker and cloud deploys as daily work, solid backend and SQL foundation.</span></p>
+            </div>
+          </li>
+          <li>
+            <span class="tl-year">2027</span>
+            <div>
+              <h3>Expansion</h3>
+              <p><span data-lang="pt">Certificações de nuvem, mensageria (RabbitMQ, Redis) e TCC.</span><span data-lang="en">Cloud certifications, messaging (RabbitMQ, Redis) and final thesis.</span></p>
+            </div>
+          </li>
+          <li>
+            <span class="tl-year">2028</span>
+            <div>
+              <h3>Quality &amp; Security</h3>
+              <p><span data-lang="pt">Segurança de aplicações, testes e observabilidade como padrão, não como extra.</span><span data-lang="en">Application security, testing and observability as the default, not an extra.</span></p>
+            </div>
+          </li>
+          <li>
+            <span class="tl-year">2029</span>
+            <div>
+              <h3>Mastery</h3>
+              <p><span data-lang="pt">Formatura em Ciência da Computação e atuação como engenheiro de backend e cloud.</span><span data-lang="en">Computer Science degree and working as a backend and cloud engineer.</span></p>
+            </div>
+          </li>
+        </ol>
+
+        <p class="langs">
+          <span data-lang="pt">Idiomas: português (nativo), inglês (avançado), japonês (básico).</span>
+          <span data-lang="en">Languages: Portuguese (native), English (advanced), Japanese (basic).</span>
+        </p>
+      </div>
     </section>
 
-    <footer>
-        <p>© 2025 Arthur Mamedes Borges</p>
-    </footer>
+    <!-- CONTATO -->
+    <section class="section contact" id="contato">
+      <div class="wrap">
+        <header class="section-head">
+          <p class="kicker">05</p>
+          <h2><span data-lang="pt">Vamos conversar</span><span data-lang="en">Let's talk</span></h2>
+          <p class="section-sub">
+            <span data-lang="pt">Oportunidades, projetos ou só trocar uma ideia sobre backend e cloud.</span>
+            <span data-lang="en">Opportunities, projects or just a chat about backend and cloud.</span>
+          </p>
+        </header>
+        <div class="contact-links">
+          <a href="mailto:arthurmamedesborges@gmail.com"><span class="cl-label">Email</span>arthurmamedesborges@gmail.com</a>
+          <a href="https://linkedin.com/in/arthurmamedes" target="_blank" rel="noopener"><span class="cl-label">LinkedIn</span>in/arthurmamedes</a>
+          <a href="https://github.com/A4thu4" target="_blank" rel="noopener"><span class="cl-label">GitHub</span>A4thu4</a>
+          <a href="https://site.arthemiz.com.br" target="_blank" rel="noopener"><span class="cl-label">ArthemizLabs</span>site.arthemiz.com.br</a>
+        </div>
+      </div>
+    </section>
+  </main>
 
+  <footer class="footer">
+    <div class="wrap footer-inner">
+      <span>© 2026 Arthur Mamedes Borges</span>
+      <span class="footer-note"><span data-lang="pt">HTML e CSS puros, sem framework.</span><span data-lang="en">Plain HTML and CSS, no framework.</span></span>
+    </div>
+  </footer>
+
+  <script>
+    (function () {
+      var root = document.documentElement;
+      var KEY = "amb-lang";
+
+      function apply(lang) {
+        root.lang = lang === "en" ? "en" : "pt-BR";
+        var opts = document.querySelectorAll(".lang-opt");
+        for (var i = 0; i < opts.length; i++) {
+          opts[i].classList.toggle("is-active", opts[i].getAttribute("data-opt") === (lang === "en" ? "en" : "pt"));
+        }
+      }
+
+      var saved = null;
+      try { saved = localStorage.getItem(KEY); } catch (e) {}
+      apply(saved === "en" ? "en" : "pt");
+
+      document.getElementById("lang-toggle").addEventListener("click", function () {
+        var next = root.lang === "en" ? "pt" : "en";
+        apply(next);
+        try { localStorage.setItem(KEY, next); } catch (e) {}
+      });
+    })();
+  </script>
 </body>
 </html>
