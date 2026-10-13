@@ -270,6 +270,10 @@ a.mini h3::after { content: " ↗"; color: var(--muted); font-size: 0.9em; }
 .footer { padding: 30px 0; font-size: 0.85rem; color: var(--muted); }
 .footer-inner { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; }
 
+/* ---------- Última atualização ---------- */
+.updated { font-family: var(--font-mono); font-size: 0.75rem; color: var(--muted); white-space: nowrap; }
+@media (max-width: 960px) { .updated { display: none; } }
+
 /* ---------- Responsivo ---------- */
 @media (max-width: 960px) {
   .mini-grid { grid-template-columns: repeat(2, 1fr); }
