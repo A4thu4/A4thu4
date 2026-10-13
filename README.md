@@ -10,7 +10,7 @@ Ciência da Computação na PUC Goiás · Estagiário Dev/Dados na SEAD-GO
 [![Email](https://img.shields.io/badge/Email-contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurmamedesborges@gmail.com)
 [![ArthemizLabs](https://img.shields.io/badge/Org-ArthemizLabs-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArthemizLabs)
 
-<sub>🇧🇷 Português · <a href="#-english">🇺🇸 English below</a></sub>
+<sub>🇧🇷 Português · <a href="#-english">🇺🇸 English below</a> · Atualizado em 13/10/2026</sub>
 
 </div>
 
