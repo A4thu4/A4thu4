@@ -45,7 +45,7 @@ Construo sistemas que rodam em produção para o setor público e para clientes 
 | [Teste técnico de QA](https://github.com/A4thu4/teste-qa-verzel) | 84 cenários em Gherkin, 57 automatizados, 2 bugs de severidade alta encontrados | Playwright · pytest |
 | Sistema de Gestão de Competências *(privado)* | Projeto da PUC Goiás em que sou **gerente de projeto** de uma equipe de 5, na etapa de requisitos | Requisitos · BPMN · Kanban |
 
-**Outros públicos:** [BiblioSystem](https://github.com/ArthemizLabs/biblio-system) · [Jornada Dev](https://github.com/ArthemizLabs/jornada-dev) · [Promove v1](https://github.com/A4thu4/Promove)
+**Outros públicos:** [BiblioSystem](https://github.com/ArthemizLabs/biblio-system) · [Jornada Dev](https://github.com/ArthemizLabs/jornada-dev)
 
 ## Tech stack
 
@@ -101,7 +101,7 @@ Backend developer in training and Computer Science student at PUC Goiás (Brazil
 | **[PROMOVE Simulator](https://simulador-promove.arthemiz.com.br)** | Simulates career progression for state public servants, with batch analysis and LLM-based reading of government case files | FastAPI · PostgreSQL · Next.js · Docker · AWS | 🟢 Production |
 | **[cobranca-app](https://cobranca-app.arthemiz.com.br)** | Multi-tenant SaaS for collections over WhatsApp with CRM and domain-based white-label. Backend rewritten from scratch | FastAPI · PostgreSQL · React · Nginx · Oracle Cloud | 🟢 Production |
 | **Portal Serviços Goiás** | Desktop app that automates checks and bulk dispatches in SEI (the government case system) | Python · Selenium · customtkinter | 🟢 In use |
-| **SEAD Comparator** | Compares text, PDFs and spreadsheets and exports the diff as PDF/XLSX ([public v1](https://github.com/A4thu4/Comparador)) | Java 21 · Spring Boot · Thymeleaf | 🟢 In use |
+| **SEAD Comparator** | Compares text, PDFs and spreadsheets and exports the diff as PDF/XLSX | Java 21 · Spring Boot · Thymeleaf | 🟢 In use |
 
 Most of these have private source code (client or public sector work). Details on my [portfolio](https://portfolio.arthemiz.com.br).
 
