@@ -31,7 +31,7 @@ Construo sistemas que rodam em produção para o setor público e para clientes 
 | **[Simulador PROMOVE](https://simulador-promove.arthemiz.com.br)** | Simula a evolução funcional de servidores públicos de Goiás, com análise em lote e leitura de processos do SEI via LLM | FastAPI · PostgreSQL · Next.js · Docker · AWS | 🟢 Produção |
 | **[cobranca-app](https://cobranca-app.arthemiz.com.br)** | SaaS multi-tenant de cobrança via WhatsApp com CRM e white-label por domínio. Backend reescrito do zero | FastAPI · PostgreSQL · React · Nginx · Oracle Cloud | 🟢 Produção |
 | **Portal Serviços Goiás** | App desktop que automatiza conferências e despachos em massa no SEI | Python · Selenium · customtkinter | 🟢 Em uso |
-| **Comparador SEAD** | Compara textos, PDFs e planilhas e exporta o diff em PDF/XLSX ([v1 pública](https://github.com/A4thu4/Comparador)) | Java 21 · Spring Boot · Thymeleaf | 🟢 Em uso |
+| **Comparador SEAD** | Compara textos, PDFs e planilhas e exporta o diff em PDF/XLSX | Java 21 · Spring Boot · Thymeleaf | 🟢 Em uso |
 
 > A maioria dos projetos acima tem código privado (cliente ou setor público). Os detalhes estão no [portfólio](https://portfolio.arthemiz.com.br).
 
@@ -61,9 +61,13 @@ Construo sistemas que rodam em produção para o setor público e para clientes 
 
 [![Skills](https://skillicons.dev/icons?i=docker,nginx,aws,azure,cloudflare,githubactions,linux&perline=8)](https://skillicons.dev)
 
-**Frontend e ferramentas**
+**Frontend**
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,git,idea,vscode&perline=11)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=8)](https://skillicons.dev)
+
+**Ferramentas**
+
+[![Skills](https://skillicons.dev/icons?i=figma,git,idea,pycharm,vscode&perline=6)](https://skillicons.dev)
 
 ## Atividade
 
