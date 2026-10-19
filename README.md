@@ -27,24 +27,24 @@ Construo sistemas que rodam em produção para o setor público e para clientes 
 
 ## Projetos em destaque
 
-| Projeto | O que é | Stack | Status |
-| --- | --- | --- | --- |
-| **[Simulador PROMOVE](https://simulador-promove.arthemiz.com.br)** | Simula a evolução funcional de servidores públicos de Goiás, com análise em lote e leitura de processos do SEI via LLM | FastAPI · PostgreSQL · Next.js · Docker · AWS | 🟢 Produção |
-| **[cobranca-app](https://cobranca-app.arthemiz.com.br)** | SaaS multi-tenant de cobrança via WhatsApp com CRM e white-label por domínio. Backend reescrito do zero | FastAPI · PostgreSQL · React · Nginx · Oracle Cloud | 🟢 Produção |
-| **Portal Serviços Goiás** | App desktop que automatiza conferências e despachos em massa no SEI | Python · Selenium · customtkinter | 🟢 Em uso |
-| **Comparador SEAD** | Compara textos, PDFs e planilhas e exporta o diff em PDF/XLSX | Java 21 · Spring Boot · Thymeleaf | 🟢 Em uso |
+| Projeto                                                            | O que é                                                                                                                | Stack                                               | Status      |
+|--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------------|
+| **[Simulador Promove](https://simulador-promove.arthemiz.com.br)** | Simula a evolução funcional de servidores públicos de Goiás, com análise em lote e leitura de processos do SEI via LLM | FastAPI · PostgreSQL · Next.js · Docker · AWS       | 🟢 Produção |
+| **[Cobrança App](https://cobranca-app.arthemiz.com.br)**           | SaaS multi-tenant de cobrança via WhatsApp com CRM e white-label por domínio. Backend reescrito do zero                | FastAPI · PostgreSQL · React · Nginx · Oracle Cloud | 🟢 Produção |
+| **Portal Serviços Goiás**                                          | App desktop que automatiza conferências e despachos em massa no SEI                                                    | Python · Selenium · customtkinter                   | 🟢 Em uso   |
+| **Comparador SEAD**                                                | Compara textos, PDFs e planilhas e exporta o diff em PDF/XLSX                                                          | Java 21 · Spring Boot · Thymeleaf                   | 🟢 Em uso   |
 
 > A maioria dos projetos acima tem código privado (cliente ou de onde trabalho). Os detalhes estão no [portfólio](https://portfolio.arthemiz.com.br).
 
 ### Bootcamp, QA e faculdade
 
-| Repositório | O que é | Stack |
-| --- | --- | --- |
-| [Assistente de Delivery](https://github.com/A4thu4/assistente-delivery-stepfunctions-bedrock) | Bootcamp Nublify (DIO): pedido orquestrado no Step Functions com mensagem gerada pelo Bedrock | Step Functions · Bedrock · IAM |
-| [Extração com Textract](https://github.com/A4thu4/extracao-texto-aws-textract) | Bootcamp Nublify (DIO): OCR de lista de material escolar para JSON | Python · boto3 · Textract |
-| [Wiki Inteligente](https://github.com/A4thu4/laboratorio-wiki-aws) | Bootcamp Nublify (DIO): arquitetura que transforma PDF, imagem e CSV em base de perguntas com citação | S3 · Step Functions · Textract · Bedrock |
-| [Teste técnico de QA](https://github.com/A4thu4/teste-qa-verzel) | 84 cenários em Gherkin, 57 automatizados, 2 bugs de severidade alta encontrados | Playwright · pytest |
-| [Sistema de Gestão de Competências](https://github.com/A4thu4/sistema-gestao-competencias) | Projeto da PUC Goiás em que sou **gerente de projeto** de uma equipe de 5, na etapa de requisitos | Requisitos · BPMN · Kanban |
+| Repositório                                                                                   | O que é                                                                                               | Stack                                    |
+|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------------|
+| [Assistente de Delivery](https://github.com/A4thu4/assistente-delivery-stepfunctions-bedrock) | Bootcamp Nublify (DIO): pedido orquestrado no Step Functions com mensagem gerada pelo Bedrock         | Step Functions · Bedrock · IAM           |
+| [Extração com Textract](https://github.com/A4thu4/extracao-texto-aws-textract)                | Bootcamp Nublify (DIO): OCR de lista de material escolar para JSON                                    | Python · boto3 · Textract                |
+| [Wiki Inteligente](https://github.com/A4thu4/laboratorio-wiki-aws)                            | Bootcamp Nublify (DIO): arquitetura que transforma PDF, imagem e CSV em base de perguntas com citação | S3 · Step Functions · Textract · Bedrock |
+| [Teste técnico de QA](https://github.com/A4thu4/teste-qa-verzel)                              | 84 cenários em Gherkin, 57 automatizados, 2 bugs de severidade alta encontrados                       | Playwright · pytest                      |
+| [Sistema de Gestão de Competências](https://github.com/A4thu4/sistema-gestao-competencias)    | Projeto da PUC Goiás em que sou **gerente de projeto** de uma equipe de 5, na etapa de requisitos     | Requisitos · BPMN · Kanban               |
 
 **Outros públicos:** [BiblioSystem](https://github.com/ArthemizLabs/biblio-system) · [Jornada Dev](https://github.com/ArthemizLabs/jornada-dev)
 
@@ -97,12 +97,12 @@ Backend developer in training and Computer Science student at PUC Goiás (Brazil
 
 ### Featured projects
 
-| Project | What it is | Stack | Status |
-| --- | --- | --- | --- |
-| **[PROMOVE Simulator](https://simulador-promove.arthemiz.com.br)** | Simulates career progression for state public servants, with batch analysis and LLM-based reading of government case files | FastAPI · PostgreSQL · Next.js · Docker · AWS | 🟢 Production |
-| **[cobranca-app](https://cobranca-app.arthemiz.com.br)** | Multi-tenant SaaS for collections over WhatsApp with CRM and domain-based white-label. Backend rewritten from scratch | FastAPI · PostgreSQL · React · Nginx · Oracle Cloud | 🟢 Production |
-| **Portal Serviços Goiás** | Desktop app that automates checks and bulk dispatches in SEI (the government case system) | Python · Selenium · customtkinter | 🟢 In use |
-| **SEAD Comparator** | Compares text, PDFs and spreadsheets and exports the diff as PDF/XLSX | Java 21 · Spring Boot · Thymeleaf | 🟢 In use |
+| Project                                                            | What it is                                                                                                                 | Stack                                               | Status        |
+|--------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|---------------|
+| **[Promove Simulator](https://simulador-promove.arthemiz.com.br)** | Simulates career progression for state public servants, with batch analysis and LLM-based reading of government case files | FastAPI · PostgreSQL · Next.js · Docker · AWS       | 🟢 Production |
+| **[Cobranca App](https://cobranca-app.arthemiz.com.br)**           | Multi-tenant SaaS for collections over WhatsApp with CRM and domain-based white-label. Backend rewritten from scratch      | FastAPI · PostgreSQL · React · Nginx · Oracle Cloud | 🟢 Production |
+| **Portal Serviços Goiás**                                          | Desktop app that automates checks and bulk dispatches in SEI (the government case system)                                  | Python · Selenium · customtkinter                   | 🟢 In use     |
+| **SEAD Comparator**                                                | Compares text, PDFs and spreadsheets and exports the diff as PDF/XLSX                                                      | Java 21 · Spring Boot · Thymeleaf                   | 🟢 In use     |
 
 Most of these have private source code (client work or where I work). Details on my [portfolio](https://portfolio.arthemiz.com.br).
 
